@@ -1,10 +1,10 @@
 ---
 　　layout: default
-　　title: 你好，世界
+　　title: 常用软件项目
 ---
 
-　　<h2>{{ page.title }}</h2>
+{{ page.title }}
 
-　　<p>我的第一篇文章</p>
 
-　　<p>{{ page.date | date_to_string }}</p>
+
+{{ page.date | date\_to\_string }}
