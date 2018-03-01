@@ -6,14 +6,14 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>2018-03-01- mac 软件.md</key>
+			<key>2018-03-01-mac_software.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>541576051.88667798</real>
+				<real>541576465.90969098</real>
 				<key>version</key>
 				<dict>
 					<key>0103048494ea1ce1e1a2be0de1f237ebacf0c77cecdb03d34cb38cd25340a980</key>
-					<integer>3</integer>
+					<integer>5</integer>
 				</dict>
 			</dict>
 			<key>2018-03-01-work_and_stady.md</key>
@@ -31,7 +31,7 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>2018-03-01- mac 软件.md</string>
+			<string>2018-03-01-mac_software.md</string>
 		</array>
 		<array>
 			<string>2018-03-01-work_and_stady.md</string>
@@ -44,7 +44,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>0103048494ea1ce1e1a2be0de1f237ebacf0c77cecdb03d34cb38cd25340a980</key>
-			<integer>4</integer>
+			<integer>6</integer>
 		</dict>
 	</dict>
 </dict>
